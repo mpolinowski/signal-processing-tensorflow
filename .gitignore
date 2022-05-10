@@ -1,0 +1,4 @@
+notebook/.ipynb_checkpoints
+data/negatives/*.wav
+data/positives/*.wav
+data/raw/*.mp3
